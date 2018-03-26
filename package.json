@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "com.virtualartifacts.webintent",
+  "cordova_name": "WebIntent",
+  "description": "Web intents for Cordova",
+  "license": "MIT",
+  "repo": "https://github.com/fathomminds/virtualartifacts-webintent",
+  "issue": "",
+  "keywords": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
